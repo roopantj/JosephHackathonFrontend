@@ -1,0 +1,8 @@
+.Container {
+  display: flex;
+  justify-content: center;
+}
+.Container-Body {
+  width: 90%;
+  max-width: 80rem;
+}
